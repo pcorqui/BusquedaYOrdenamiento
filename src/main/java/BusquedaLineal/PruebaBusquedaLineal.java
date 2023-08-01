@@ -1,3 +1,7 @@
+package BusquedaLineal;
+
+import BusquedaLineal.ArregloLineal;
+
 import java.util.Scanner;
 
 public class PruebaBusquedaLineal {

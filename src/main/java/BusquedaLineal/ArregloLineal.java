@@ -1,3 +1,5 @@
+package BusquedaLineal;
+
 import java.util.Random;
 
 public class ArregloLineal {

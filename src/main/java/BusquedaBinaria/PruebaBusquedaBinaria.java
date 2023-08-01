@@ -1,3 +1,7 @@
+package BusquedaBinaria;
+
+import BusquedaBinaria.ArregloBinario;
+
 import java.util.Scanner;
 
 public class PruebaBusquedaBinaria {
